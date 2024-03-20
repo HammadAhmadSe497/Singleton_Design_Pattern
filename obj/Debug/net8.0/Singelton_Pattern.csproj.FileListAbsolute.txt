@@ -1,0 +1,14 @@
+E:\Design Pattern\Singelton_Pattern\bin\Debug\net8.0\Singelton_Pattern.exe
+E:\Design Pattern\Singelton_Pattern\bin\Debug\net8.0\Singelton_Pattern.deps.json
+E:\Design Pattern\Singelton_Pattern\bin\Debug\net8.0\Singelton_Pattern.runtimeconfig.json
+E:\Design Pattern\Singelton_Pattern\bin\Debug\net8.0\Singelton_Pattern.dll
+E:\Design Pattern\Singelton_Pattern\bin\Debug\net8.0\Singelton_Pattern.pdb
+E:\Design Pattern\Singelton_Pattern\obj\Debug\net8.0\Singelton_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Design Pattern\Singelton_Pattern\obj\Debug\net8.0\Singelton_Pattern.AssemblyInfoInputs.cache
+E:\Design Pattern\Singelton_Pattern\obj\Debug\net8.0\Singelton_Pattern.AssemblyInfo.cs
+E:\Design Pattern\Singelton_Pattern\obj\Debug\net8.0\Singelton_Pattern.csproj.CoreCompileInputs.cache
+E:\Design Pattern\Singelton_Pattern\obj\Debug\net8.0\Singelton_Pattern.dll
+E:\Design Pattern\Singelton_Pattern\obj\Debug\net8.0\refint\Singelton_Pattern.dll
+E:\Design Pattern\Singelton_Pattern\obj\Debug\net8.0\Singelton_Pattern.pdb
+E:\Design Pattern\Singelton_Pattern\obj\Debug\net8.0\Singelton_Pattern.genruntimeconfig.cache
+E:\Design Pattern\Singelton_Pattern\obj\Debug\net8.0\ref\Singelton_Pattern.dll
